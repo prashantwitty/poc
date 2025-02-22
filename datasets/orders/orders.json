@@ -196,6 +196,11 @@
               "ProductID": "P003",
               "Quantity": 1,
               "Price": 9.99
+            },
+            {
+              "ProductID": "P005",
+              "Quantity": 2,
+              "Price": 99.99
             }
           ]
         }

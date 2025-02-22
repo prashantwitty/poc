@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Customers>
+  <Customer>
+    <CustomerID>C001</CustomerID>
+    <Name>John Doe</Name>
+    <Region>North</Region>
+  </Customer>
+  <Customer>
+    <CustomerID>C002</CustomerID>
+    <Name>Jane Smith</Name>
+    <Region>South</Region>
+  </Customer>
+  <Customer>
+    <CustomerID>C003</CustomerID>
+    <Name>Bob Johnson</Name>
+    <Region>East</Region>
+  </Customer>
+  <Customer>
+    <CustomerID>C004</CustomerID>
+    <Name>Alice Williams</Name>
+    <Region>West</Region>
+  </Customer>
+  <Customer>
+    <CustomerID>C005</CustomerID>
+    <Name>Michael Brown</Name>
+    <Region>Central</Region>
+  </Customer>
+</Customers>

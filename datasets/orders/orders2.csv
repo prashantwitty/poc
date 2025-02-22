@@ -1,0 +1,2 @@
+OrderID,CustomerID,OrderDate,ProductID,Quantity,Price
+10012,C003,2/26/2025,P003,2,9.99
